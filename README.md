@@ -13,16 +13,23 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
+## NAME : DEVADARSHAN A S
+## REG NO : 212222110007
 ## Program:
+
+```
 import numpy as np
-a = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
-b = np.array([-9,4,-1])
-c = np.linalg.solve(a,b)
-print(c)
+a=np.array([[1,3],[2,5]])
+b=np.array([5,-3])
+x=np.linalg.solve(a,b)
+print(x)
+
+```
 
 ## Output:
-![Screenshot 2023-04-03 094316](https://user-images.githubusercontent.com/119432150/229418625-57a7cc74-ff4f-4338-b93f-667baa266f64.png)
+![image](https://github.com/DEVADARSHAN2/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/119432150/79847047-d17e-4f1c-a2a7-3145f1b3c8cc)
+
 
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using python program
+Thus the solutions for the linear equations are successfully solved using python program.
 
