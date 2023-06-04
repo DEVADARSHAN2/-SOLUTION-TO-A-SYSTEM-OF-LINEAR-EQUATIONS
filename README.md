@@ -13,10 +13,11 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
+```
 ## NAME : DEVADARSHAN A S
 ## REG NO : 212222110007
 ## Program:
-
+```
 ```
 import numpy as np
 a=np.array([[1,3],[2,5]])
