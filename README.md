@@ -14,8 +14,8 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ```
-## NAME : DEVADARSHAN A S
-## REG NO : 212222110007
+NAME : DEVADARSHAN A S
+REG NO : 212222110007
 
 ```
 ```
